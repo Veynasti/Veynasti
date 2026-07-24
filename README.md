@@ -65,9 +65,9 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veynasti&layout=compact&theme=dracula&hide_border=false"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veynasti&layout=compact&theme=dracula&cache_seconds=1800"
     alt="Top Languages"
+    />"
   />
   <img
     src="https://streak-stats.demolab.com?user=Veynasti&theme=dark&hide_border=false"
