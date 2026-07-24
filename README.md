@@ -23,7 +23,7 @@
 
 ###
 
-<p data-importer="text" align="left">👋 Hi there, I'm Andreas<br><br>💻 Information Technology Student<br>📊 System Analyst Enthusiast<br>📂 Project Manager<br>🌐 Laravel Web Developer<br>🎨 Digital Creator</p>
+<p data-importer="text" align="left">Hai, perkenalkan saya Andreas, seorang mahasiswa Teknologi Informasi yang memiliki minat besar di bidang analisis sistem. Saya juga berpengalaman sebagai project manager, pengembang web menggunakan Laravel, serta aktif berkarya sebagai digital creator</p>
 
 ###
 
