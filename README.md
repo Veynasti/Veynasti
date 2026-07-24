@@ -66,10 +66,10 @@
 <table data-importer="stats" align="center">
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/Veynasti/Veynasti/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+      <img src="https://raw.githubusercontent.com/Veynasti/Veynasti/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=Veynasti&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+      <img src="https://streak-stats.demolab.com?user=Veynasti&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" />
     </td>
   </tr>
 </table>
